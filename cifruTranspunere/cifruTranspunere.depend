@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1742630629 source:c:\users\raluca\onedrive\desktop\cifrutranspunere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
